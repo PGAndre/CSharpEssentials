@@ -1,0 +1,7 @@
+D:\Code\CSharpEssentials\Lesson12_1(PrintAB_Example)\bin\Debug\Lesson12_1(PrintAB_Example).exe.config
+D:\Code\CSharpEssentials\Lesson12_1(PrintAB_Example)\bin\Debug\Lesson12_1(PrintAB_Example).exe
+D:\Code\CSharpEssentials\Lesson12_1(PrintAB_Example)\bin\Debug\Lesson12_1(PrintAB_Example).pdb
+D:\Code\CSharpEssentials\Lesson12_1(PrintAB_Example)\obj\Debug\Lesson12_1(PrintAB_Example).csprojAssemblyReference.cache
+D:\Code\CSharpEssentials\Lesson12_1(PrintAB_Example)\obj\Debug\Lesson12_1(PrintAB_Example).csproj.CoreCompileInputs.cache
+D:\Code\CSharpEssentials\Lesson12_1(PrintAB_Example)\obj\Debug\Lesson12_1(PrintAB_Example).exe
+D:\Code\CSharpEssentials\Lesson12_1(PrintAB_Example)\obj\Debug\Lesson12_1(PrintAB_Example).pdb

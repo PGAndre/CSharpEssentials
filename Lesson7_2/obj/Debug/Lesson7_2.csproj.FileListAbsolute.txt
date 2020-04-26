@@ -1,0 +1,6 @@
+D:\Code\CSharpEssentials\Lesson7_2\bin\Debug\Lesson7_2.exe.config
+D:\Code\CSharpEssentials\Lesson7_2\bin\Debug\Lesson7_2.exe
+D:\Code\CSharpEssentials\Lesson7_2\bin\Debug\Lesson7_2.pdb
+D:\Code\CSharpEssentials\Lesson7_2\obj\Debug\Lesson7_2.exe
+D:\Code\CSharpEssentials\Lesson7_2\obj\Debug\Lesson7_2.pdb
+D:\Code\CSharpEssentials\Lesson7_2\obj\Debug\Lesson7_2.csprojAssemblyReference.cache

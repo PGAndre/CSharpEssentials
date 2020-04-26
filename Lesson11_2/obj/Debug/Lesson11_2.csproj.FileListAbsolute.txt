@@ -1,0 +1,10 @@
+D:\Code\CSharpEssentials\Lesson11_2\bin\Debug\Lesson11_2.exe.config
+D:\Code\CSharpEssentials\Lesson11_2\bin\Debug\Lesson11_2.exe
+D:\Code\CSharpEssentials\Lesson11_2\bin\Debug\Lesson11_2.pdb
+D:\Code\CSharpEssentials\Lesson11_2\bin\Debug\Lesson10_2.exe
+D:\Code\CSharpEssentials\Lesson11_2\bin\Debug\Lesson10_2.pdb
+D:\Code\CSharpEssentials\Lesson11_2\bin\Debug\Lesson10_2.exe.config
+D:\Code\CSharpEssentials\Lesson11_2\obj\Debug\Lesson11_2.csprojAssemblyReference.cache
+D:\Code\CSharpEssentials\Lesson11_2\obj\Debug\Lesson11_2.csproj.CopyComplete
+D:\Code\CSharpEssentials\Lesson11_2\obj\Debug\Lesson11_2.exe
+D:\Code\CSharpEssentials\Lesson11_2\obj\Debug\Lesson11_2.pdb

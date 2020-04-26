@@ -9,7 +9,7 @@ namespace Lesson10_4
 {
     static class Program
     {
-        public static T[] GetArray<T>(this Mylist<T> array)
+        public static T[] GetArray<T>(Mylist<T> array)
         {
             T[] arrayT = new T[array.massive.Length];
             for (int i = 0; i < array.massive.Length; i++)

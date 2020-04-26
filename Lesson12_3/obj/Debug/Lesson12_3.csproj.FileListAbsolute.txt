@@ -1,0 +1,15 @@
+D:\Code\CSharpEssentials\Lesson12_3\bin\Debug\Lesson12_3.exe.config
+D:\Code\CSharpEssentials\Lesson12_3\bin\Debug\Lesson12_3.exe
+D:\Code\CSharpEssentials\Lesson12_3\bin\Debug\Lesson12_3.pdb
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\Lesson12_3.csprojAssemblyReference.cache
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\MainWindow.g.cs
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\App.g.cs
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\Lesson12_3_MarkupCompile.cache
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\Lesson12_3_MarkupCompile.lref
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\MainWindow.baml
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\Lesson12_3.g.resources
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\Lesson12_3.Properties.Resources.resources
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\Lesson12_3.csproj.GenerateResource.cache
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\Lesson12_3.csproj.CoreCompileInputs.cache
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\Lesson12_3.exe
+D:\Code\CSharpEssentials\Lesson12_3\obj\Debug\Lesson12_3.pdb
