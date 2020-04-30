@@ -4,3 +4,4 @@ D:\Code\CSharpEssentials\Lesson9_3\bin\Debug\Lesson9_3.pdb
 D:\Code\CSharpEssentials\Lesson9_3\obj\Debug\Lesson9_3.csprojAssemblyReference.cache
 D:\Code\CSharpEssentials\Lesson9_3\obj\Debug\Lesson9_3.exe
 D:\Code\CSharpEssentials\Lesson9_3\obj\Debug\Lesson9_3.pdb
+D:\Code\CSharpEssentials\Lesson9_3\obj\Debug\Lesson9_3.csproj.CoreCompileInputs.cache

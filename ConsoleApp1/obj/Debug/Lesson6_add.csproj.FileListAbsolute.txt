@@ -4,3 +4,4 @@ D:\Code\CSharpEssentials\ConsoleApp1\bin\Debug\ConsoleApp1.exe
 D:\Code\CSharpEssentials\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 D:\Code\CSharpEssentials\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\Code\CSharpEssentials\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Code\CSharpEssentials\ConsoleApp1\obj\Debug\Lesson6_add.csproj.CoreCompileInputs.cache

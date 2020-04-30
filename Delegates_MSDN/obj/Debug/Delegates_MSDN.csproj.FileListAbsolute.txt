@@ -4,3 +4,4 @@ D:\Code\CSharpEssentials\Delegates_MSDN\bin\Debug\Delegates_MSDN.exe
 D:\Code\CSharpEssentials\Delegates_MSDN\bin\Debug\Delegates_MSDN.pdb
 D:\Code\CSharpEssentials\Delegates_MSDN\obj\Debug\Delegates_MSDN.exe
 D:\Code\CSharpEssentials\Delegates_MSDN\obj\Debug\Delegates_MSDN.pdb
+D:\Code\CSharpEssentials\Delegates_MSDN\obj\Debug\Delegates_MSDN.csproj.CoreCompileInputs.cache

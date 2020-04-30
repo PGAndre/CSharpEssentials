@@ -4,3 +4,4 @@ D:\Code\CSharpEssentials\LEsson8_1\bin\Debug\LEsson8_1.exe
 D:\Code\CSharpEssentials\LEsson8_1\bin\Debug\LEsson8_1.pdb
 D:\Code\CSharpEssentials\LEsson8_1\obj\Debug\LEsson8_1.exe
 D:\Code\CSharpEssentials\LEsson8_1\obj\Debug\LEsson8_1.pdb
+D:\Code\CSharpEssentials\LEsson8_1\obj\Debug\LEsson8_1.csproj.CoreCompileInputs.cache
