@@ -1,0 +1,7 @@
+D:\Code\CSharpEssentials\Lesson16_3\bin\Debug\Lesson16_3.exe.config
+D:\Code\CSharpEssentials\Lesson16_3\bin\Debug\Lesson16_3.exe
+D:\Code\CSharpEssentials\Lesson16_3\bin\Debug\Lesson16_3.pdb
+D:\Code\CSharpEssentials\Lesson16_3\obj\Debug\Lesson16_3.csprojAssemblyReference.cache
+D:\Code\CSharpEssentials\Lesson16_3\obj\Debug\Lesson16_3.csproj.CoreCompileInputs.cache
+D:\Code\CSharpEssentials\Lesson16_3\obj\Debug\Lesson16_3.exe
+D:\Code\CSharpEssentials\Lesson16_3\obj\Debug\Lesson16_3.pdb
