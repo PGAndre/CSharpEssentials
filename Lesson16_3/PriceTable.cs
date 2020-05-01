@@ -25,20 +25,32 @@ namespace Lesson16_3
                 shop = Console.ReadLine();
 
                 Console.WriteLine("введите цену товара");
-                
-                try 
+                bool parseint = true;
+                do
                 {
-                    price = Convert.ToInt32(Console.ReadLine());
+                    if (!parseint)
+                    {
+                        Console.WriteLine("вы ввели неверное значение цены товара");
+                    }
+                    string StrPrice = Console.ReadLine();
+                    parseint = Int32.TryParse(StrPrice, out price);
                 }
-                catch (Exception e)
-                {
-                    Console.WriteLine("вы ввели цену в неверном формате");
-                    Console.WriteLine(e.Message);
-                    price = 0;
-                }
+                while (!parseint);
+                //try 
+                //{
+                //    price = Convert.ToInt32(Console.ReadLine());
+                //}
+                //catch (Exception e)
+                //{
+                //    Console.WriteLine("вы ввели цену в неверном формате");
+                //    Console.WriteLine(e.Message);
+                //    price = 0;
+                //}
 
                 prices[i] = new Prices(name, shop, price);
+                
             }
+            prices = prices.OrderBy(price => price.Shop).ToArray<Prices>();
         }
         public void Show()
         {

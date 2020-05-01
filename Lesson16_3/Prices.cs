@@ -53,11 +53,10 @@ namespace Lesson16_3
         }
         public Prices(string name, string shop, int price)
         {
-            this.price = 0;
+            this.price = price;
             this.name = name;
             this.shop = shop;
-            this.Price = price;
-        }
+            }
 
         public void Show()
         {
